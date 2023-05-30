@@ -1,0 +1,1 @@
+Ovo će biti moj prvi izmenjen commit.
